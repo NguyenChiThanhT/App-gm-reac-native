@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReactNativeSeed</string>
+    <string name="facebook_app_id">321746771933658</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">hiot59alUHIQK6NyqZDZWj2uI</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">89UlcEPjrU6DuoSIBCg60rssYYIMYHHMZuD45PGV0PioqBy0nd</string>
+</resources>

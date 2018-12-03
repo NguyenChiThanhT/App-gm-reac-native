@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../src/container/NewPostContainer/AddPictureContainer/index.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAC/B,OAAO,UAAU,MAAM,6CAA6C,CAAC;AAKrE,MAAM,CAAC,OAAO,0BAA2B,SAAQ,KAAK,CAAC,SAAuB;IAC7E,MAAM;QACL,MAAM,CAAC,oBAAC,UAAU,IAAC,UAAU,EAAE,IAAI,CAAC,KAAK,CAAC,UAAU,GAAI,CAAC;IAC1D,CAAC;CACD"}
